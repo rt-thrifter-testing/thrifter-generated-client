@@ -1,0 +1,1 @@
+thrifter-generated-client
